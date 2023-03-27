@@ -7,8 +7,7 @@ import java.util.Scanner;
 
 /**
  * Simple menu so user can enter commands to continue or stop simulation
- * @author Jonathan Hudson
- * @version 1.0
+ 
  */
 public final class Menu {
 
