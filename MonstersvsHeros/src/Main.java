@@ -7,13 +7,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Random;
 
-/**
- * Monsters vs Heroes
- * A simple 2D grid simulation. Load a defined world file and step by step resolve movement in grid to determine if
- * the heroes win, or the monster win.
- * @author Jonathan Hudson
- * @version 1.0
- */
+
 public final class Main {
 
 
